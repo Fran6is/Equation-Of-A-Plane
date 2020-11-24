@@ -61,6 +61,8 @@ std::ostream& operator<<(std::ostream& cout, const Vector& Rhs)
 
 void GetEquationOfAPlane(const std::vector<Vector>& points, PlaneEquation& Equation)
 {
+	if (points.size() < 3) { std::cout << "Need three points to define a plane \n"; return; }
+
 	Vector Edge1 = points.at(1) - points.at(0);
 	Vector Edge2 = points.at(2) - points.at(0);
 
