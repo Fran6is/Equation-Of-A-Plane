@@ -69,6 +69,7 @@ void GetEquationOfAPlane(const std::vector<Vector>& points, PlaneEquation& Equat
 }
 int main(void)
 {
+	//Three points to define a plane
 	std::vector<Vector> PlanePoints{
 		Vector{1, 0, 1},
 		Vector{0, 1, 0},
