@@ -12,11 +12,11 @@ some vector variable 'v' = < x, y, z >
 1. ***Standard form***
    - > a(x - x0) + b(y - y0) +  c(z - z0) = 0
   
-   - ***Stems from the idea that the dot-product between two orthogonal vectors(plane normal and plane point) has to equal zero***
+   - ***Stems from the idea that the dot-product between two orthogonal vectors( n.(v - p) ) has to equal zero***
 
 2. ***General form***
    - > ax + by + cz = d
-   -  Since the ***'n'***  and ***'p'*** vectors are known constants; if you then apply the *distributive property* to the first equation, collect like terms, and re-arrange the whole expression; you get this compact version.
+   -  Since the ***'n'***  and ***'p'*** vectors are known constants; if you then apply the *distributive property* to the first equation, collect like terms, and re-arrange the whole expression; you get this compact version. Therefore, n.v = d
    
 ## References:
 - [Equations of Planes in Space | YouTube](https://www.youtube.com/watch?v=EPEh3jBTjDs&t=329s&ab_channel=FireflyLectures)
