@@ -16,7 +16,7 @@ some vector variable 'v' = < x, y, z >
 
 2. ***General form***
    - > ax + by + cz = d
-   -  Since the ***'n'***  and ***'p'*** vectors are known constants; if you then apply the *distributive property* to the first equation, collect like terms, and re-arrange the whole expression; you get a compact version.
+   -  Since the ***'n'***  and ***'p'*** vectors are known constants; if you then apply the *distributive property* to the first equation, collect like terms, and re-arrange the whole expression; you get this compact version.
    
 ## References:
 - [Equations of Planes in Space | YouTube](https://www.youtube.com/watch?v=EPEh3jBTjDs&t=329s&ab_channel=FireflyLectures)
