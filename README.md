@@ -1,22 +1,22 @@
 # Equation of a plane in 3D
 
-Given some point 'p' on a plane and a normal vector 'n' to that plane,
+Given some point ***'p'*** on a plane and a normal vector ***'n'*** to that plane,
 the equation of the plane can thus be written as:
 
-n = < a, b, c >
+***n*** = < a, b, c >
 
-p = < x0, y0, z0 >
+***p*** = < x0, y0, z0 >
 
 some vector variable 'v' = < x, y, z >
 
 1. ***Standard form***
    - > a(x - x0) + b(y - y0) +  c(z - z0) = 0
   
-   - ***Based on the idea that the dot-product between two orthogonal vectors(plane normal and plane point) has to equal zero***
+   - ***Stems from the idea that the dot-product between two orthogonal vectors(plane normal and plane point) has to equal zero***
 
 2. ***General form***
    - > ax + by + cz = d
-   -  Since the *'n'*  and *'p'* vectors are known constants; if you then apply the *distributive property* to the first equation, collect like terms, and re-arrange the whole equation; you get a compact version.
+   -  Since the ***'n'***  and ***'p'*** vectors are known constants; if you then apply the *distributive property* to the first equation, collect like terms, and re-arrange the whole equation; you get a compact version.
    
 ## References:
 - [Equations of Planes in Space | YouTube](https://www.youtube.com/watch?v=EPEh3jBTjDs&t=329s&ab_channel=FireflyLectures)
